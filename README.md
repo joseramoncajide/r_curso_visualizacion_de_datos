@@ -1,1 +1,3 @@
-# r_curso_visualizacion_de_datos
+# Visualización de datos con R
+
+![]("./img/intro.png")
