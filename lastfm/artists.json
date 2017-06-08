@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "first": "5",
+      "second": "4",
+      "third": "7",
+      "name": "madonna",
+      "group": 1
+    },
+    {
+      "first": "12",
+      "second": "6",
+      "third": "11",
+      "name": "u2",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "ub40",
+      "group": 1
+    },
+    {
+      "first": "6",
+      "second": "10",
+      "third": "2",
+      "name": "queen",
+      "group": 1
+    },
+    {
+      "first": "12",
+      "second": "None",
+      "third": "None",
+      "name": "metallica",
+      "group": 1
+    },
+    {
+      "first": "10",
+      "second": "11",
+      "third": "6",
+      "name": "beatles",
+      "group": 1
+    },
+    {
+      "first": "8",
+      "second": "13",
+      "third": "None",
+      "name": "george michael",
+      "group": 1
+    },
+    {
+      "first": "8",
+      "second": "8",
+      "third": "None",
+      "name": "britney spears",
+      "group": 1
+    },
+    {
+      "first": "8",
+      "second": "None",
+      "third": "None",
+      "name": "cher",
+      "group": 1
+    },
+    {
+      "first": "3",
+      "second": "None",
+      "third": "None",
+      "name": "jennifer lopez",
+      "group": 1
+    },
+    {
+      "first": "6",
+      "second": "11",
+      "third": "None",
+      "name": "acdc",
+      "group": 1
+    },
+    {
+      "first": "11",
+      "second": "13",
+      "third": "10",
+      "name": "dire straits",
+      "group": 1
+    },
+    {
+      "first": "11",
+      "second": "5",
+      "third": "2",
+      "name": "pink floyd",
+      "group": 1
+    },
+    {
+      "first": "13",
+      "second": "11",
+      "third": "9",
+      "name": "red hot chili pepers",
+      "group": 1
+    },
+    {
+      "first": "None",
+      "second": "None",
+      "third": "None",
+      "name": "bob marley",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "node1": "madonna",
+      "node2": "george michael",
+      "weight": 0.2963,
+      "source": 0,
+      "target": 6
+    },
+    {
+      "node1": "madonna",
+      "node2": "britney spears",
+      "weight": 0.411,
+      "source": 0,
+      "target": 7
+    },
+    {
+      "node1": "madonna",
+      "node2": "cher",
+      "weight": 0.4138,
+      "source": 0,
+      "target": 8
+    },
+    {
+      "node1": "u2",
+      "node2": "queen",
+      "weight": 0.2955,
+      "source": 1,
+      "target": 3
+    },
+    {
+      "node1": "u2",
+      "node2": "george michael",
+      "weight": 0.2857,
+      "source": 1,
+      "target": 6
+    },
+    {
+      "node1": "u2",
+      "node2": "dire straits",
+      "weight": 0.3256,
+      "source": 1,
+      "target": 11
+    },
+    {
+      "node1": "u2",
+      "node2": "red hot chili pepers",
+      "weight": 0.3659,
+      "source": 1,
+      "target": 13
+    },
+    {
+      "node1": "queen",
+      "node2": "beatles",
+      "weight": 0.2982,
+      "source": 3,
+      "target": 5
+    },
+    {
+      "node1": "queen",
+      "node2": "acdc",
+      "weight": 0.2683,
+      "source": 3,
+      "target": 10
+    },
+    {
+      "node1": "queen",
+      "node2": "dire straits",
+      "weight": 0.4286,
+      "source": 3,
+      "target": 11
+    },
+    {
+      "node1": "queen",
+      "node2": "pink floyd",
+      "weight": 0.3721,
+      "source": 3,
+      "target": 12
+    },
+    {
+      "node1": "queen",
+      "node2": "red hot chili pepers",
+      "weight": 0.2826,
+      "source": 3,
+      "target": 13
+    },
+    {
+      "node1": "metallica",
+      "node2": "red hot chili pepers",
+      "weight": 0.2683,
+      "source": 4,
+      "target": 13
+    },
+    {
+      "node1": "beatles",
+      "node2": "dire straits",
+      "weight": 0.2542,
+      "source": 5,
+      "target": 11
+    },
+    {
+      "node1": "beatles",
+      "node2": "pink floyd",
+      "weight": 0.3036,
+      "source": 5,
+      "target": 12
+    },
+    {
+      "node1": "britney spears",
+      "node2": "jennifer lopez",
+      "weight": 0.4381,
+      "source": 7,
+      "target": 9
+    },
+    {
+      "node1": "acdc",
+      "node2": "dire straits",
+      "weight": 0.3,
+      "source": 10,
+      "target": 11
+    },
+    {
+      "node1": "dire straits",
+      "node2": "pink floyd",
+      "weight": 0.3111,
+      "source": 11,
+      "target": 12
+    },
+    {
+      "node1": "dire straits",
+      "node2": "red hot chili pepers",
+      "weight": 0.2553,
+      "source": 11,
+      "target": 13
+    }
+  ]
+} 
