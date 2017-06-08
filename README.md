@@ -1,3 +1,3 @@
 # Visualización de datos con R
 
-![](img/intro.png)
+![Bienvenida](img/intro.png)
